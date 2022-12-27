@@ -1,0 +1,4 @@
+Sitemap: https://csertegt3.github.io/mamireceptek.hu/sitemap.xml
+
+User-agent: *
+Disallow:
