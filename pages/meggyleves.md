@@ -16,7 +16,7 @@ A recept nagyjából azokkal a szavakkal került lejegyzésre, ahogy az elkész�
 * 2-3 körömnyi fahéj (egész, nem őrölt)
 * csipet só
 * 5-6 szem szegfűszeg
-* fél citrom héjja
+* fél citrom héja
 * 1 üveg meggybefőtt
 * 1 jó evőkanál vaníliapudingpor
 * 1 zacskó vaníliás cukor
@@ -25,7 +25,7 @@ A recept nagyjából azokkal a szavakkal került lejegyzésre, ahogy az elkész�
 
 ### Elkészítés
 
-Edényben 2 dl vizet melegíteni, csipet sóval, fahéjjal, szegfűszeggel és vékonyan fél citrom héjjával.
+Edényben 2 dl vizet melegíteni, csipet sóval, fahéjjal, szegfűszeggel és vékonyan fél citrom héjával.
 8-10 percig forralni, tűzről levenni, leszűrni.
 Ebbe belemegy a meggy a levével együtt, pár percig forrjon együtt, utána tűzről levenni.
 
