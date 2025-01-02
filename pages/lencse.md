@@ -28,7 +28,7 @@ Fogunk valamilyen füstölt húst, megfőzzük és nem öntjük ki a főzőlevé
 
 A lencsét átválogatjuk és beáztatjuk, hagyományosan már előző nap.
 A Telex cikk alapján ezt akár el is hagyhatjuk, vagy ahogy időnk engedi.
-A hagymás-fokhagymás-paprikás alapot "szokásos" módon elékszítjük.
+A hagymás-fokhagymás-paprikás alapot "szokásos" módon elkészítjük.
 Utána beleöntjük a lencsét és a hús főzőlevéből annyit, hogy bőven ellepje.
 Egyelőre nem sózzuk, de belerakjuk a babérlevelet és a mustárt.
 Belereszeljük a citrom héját is.
